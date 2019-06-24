@@ -1,0 +1,18 @@
+Dear Participant,
+
+Please find below the Project for Supervised Learning course. This is an individual assignment. Kindly submit it before it's deadline.
+
+Data Set - http://www.stat.ufl.edu/~winner/data/airq402.dat
+
+Data Description - http://www.stat.ufl.edu/~winner/data/airq402.txt
+
+Assignment Expectations/Steps -
+
+Import and store the data in a data frame. (2.5 points)
+Remove the outliers from the data (5 points)
+Treat “Average Fare” – 3rdColumn as your Dependent Variable and Rest of the columns as Independent Variable. (2.5 points)
+Drop the independent variables which has less than 0.1 correlation with the dependent variable (5 points)
+Create scatter Plot of Independent Variable vs Dependent Variable. (2.5 points)
+Divide the data set into training and test data set and build a Multiple Linear Regression model. (5 points)
+Print the coefficients & intercepts of the linear regression model (5 points)
+Print the accuracy of the overall model (2.5 points)
